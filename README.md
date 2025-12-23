@@ -6,9 +6,9 @@ The aim of this project is to create a small program for the Flipper Zero. The p
 
 ## Current Status
 
-Overal Algorithm: Planning
+Overal Algorithm: Development
 
-Flipper Zero UI/UX: Research
+Flipper Zero UI/UX: Development
 
 Infrared Communication: Research
 
